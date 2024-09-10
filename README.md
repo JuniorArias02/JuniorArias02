@@ -18,6 +18,10 @@
 ## 🌟 Lenguajes más utilizados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorArias02&layout=compact&theme=radical)
 
+## 🔥 Rachas activas
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JuniorArias02&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 ---
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar o simplemente conversar sobre tecnología. 🚀
