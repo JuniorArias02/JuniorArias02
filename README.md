@@ -22,6 +22,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JuniorArias02&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+## 📈 Actividad Reciente
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JuniorArias02&theme=radical)
+
+
+
 ---
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar o simplemente conversar sobre tecnología. 🚀
